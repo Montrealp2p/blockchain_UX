@@ -20,7 +20,7 @@ Lors de cet atelier, vous allez créer votre premier jeu sur la blockchain: un j
 
 ### **19h05** : Comparaison des plateformes Ethereum Network, Loom Network et EOS
 
-L'année 2018 a vue apparaître deux nouvelles plateformes de développement d'applications décentralisées: Loom Network en mars et EOS en juin. Nous allons comparer ces différentes plateformes sur le plans de la flexibilité de design et du consensus.
+L'année 2018 a vue apparaître deux nouvelles plateformes de développement d'applications décentralisées: Loom Network en mars et EOS en juin. Nous allons comparer ces différentes plateformes sur le plans de la flexibilité de design et du consensus. Des lectures supplémentaires seront suggérés (voir la section [ressources](docs/ressources.md)).
 
 ### **19h20** : Conférencier invité
 
