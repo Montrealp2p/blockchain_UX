@@ -78,6 +78,20 @@ class Game extends React.Component {
   // Show X and O balances
   ShowBalances(){  }
 
+  // **** 05.01 ****
+  handleXAddressChange = (event) =>{
+
+      }
+    )
+  }
+
+  // **** 05.01 ****
+  handleOAddressChange = (event) =>{
+
+      }
+    )
+  }
+
   // **** 05.02 ****
   BuyIn(){  }
 
